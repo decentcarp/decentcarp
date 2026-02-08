@@ -3,7 +3,7 @@
 
 int main(void) {
     char username[9] = "decentcarp";
-    char discorduser[9] = "decentcarp";
+    char discorduser[9] = "r5900";
     char name[7] = "Eleanor";
     char country[14] = "United Kingdom";
     char codinglanguages[3][8] = {"C", "Bash", "Swift"};
